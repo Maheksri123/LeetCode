@@ -10,4 +10,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Maheksri123/LeetCode/tree/master/0205-isomorphic-strings) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Maheksri123/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
