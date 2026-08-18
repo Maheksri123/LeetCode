@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Maheksri123/LeetCode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Maheksri123/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Maheksri123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Maheksri123/LeetCode/tree/master/0224-basic-calculator) |
 ## Array
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Maheksri123/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Maheksri123/LeetCode/tree/master/0069-sqrtx) |
 ## Stack
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/Maheksri123/LeetCode/tree/master/0388-longest-absolute-file-path) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Maheksri123/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
