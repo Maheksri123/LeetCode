@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Maheksri123/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Maheksri123/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Maheksri123/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Maheksri123/LeetCode/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/Maheksri123/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Maheksri123/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Maheksri123/LeetCode/tree/master/0242-valid-anagram) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Maheksri123/LeetCode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Maheksri123/LeetCode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Maheksri123/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Maheksri123/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Maheksri123/LeetCode/tree/master/0070-climbing-stairs) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Maheksri123/LeetCode/tree/master/0112-path-sum) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Maheksri123/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
