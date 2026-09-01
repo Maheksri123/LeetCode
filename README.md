@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Maheksri123/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0205-isomorphic-strings](https://github.com/Maheksri123/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Maheksri123/LeetCode/tree/master/0242-valid-anagram) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Maheksri123/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Maheksri123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Maheksri123/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Maheksri123/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Maheksri123/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Maheksri123/LeetCode/tree/master/0112-path-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Maheksri123/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -140,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Maheksri123/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Maheksri123/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Maheksri123/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
