@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Maheksri123/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Maheksri123/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Maheksri123/LeetCode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Maheksri123/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Maheksri123/LeetCode/tree/master/0069-sqrtx) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Maheksri123/LeetCode/tree/master/0029-divide-two-integers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Maheksri123/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
