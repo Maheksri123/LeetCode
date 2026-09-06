@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Maheksri123/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Maheksri123/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Maheksri123/LeetCode/tree/master/0043-multiply-strings) |
+| [0115-distinct-subsequences](https://github.com/Maheksri123/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Maheksri123/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Maheksri123/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Maheksri123/LeetCode/tree/master/0242-valid-anagram) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Maheksri123/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Maheksri123/LeetCode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Maheksri123/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Memoization
 |  |
 | ------- |
