@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Maheksri123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Maheksri123/LeetCode/tree/master/0112-path-sum) |
 | [0388-longest-absolute-file-path](https://github.com/Maheksri123/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Maheksri123/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Newton's Method
 |  |
 | ------- |
@@ -127,11 +128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maheksri123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Maheksri123/LeetCode/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Maheksri123/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maheksri123/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Maheksri123/LeetCode/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Maheksri123/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
 | ------- |
