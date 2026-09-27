@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Maheksri123/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Maheksri123/LeetCode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Maheksri123/LeetCode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Maheksri123/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Maheksri123/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Maheksri123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Maheksri123/LeetCode/tree/master/0224-basic-calculator) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Maheksri123/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Maheksri123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Maheksri123/LeetCode/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/Maheksri123/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Maheksri123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0835-image-overlap](https://github.com/Maheksri123/LeetCode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maheksri123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
