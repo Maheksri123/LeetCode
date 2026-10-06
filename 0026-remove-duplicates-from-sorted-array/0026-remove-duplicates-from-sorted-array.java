@@ -1,18 +1,13 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        if (nums.length == 0) return 0;
-
-        // Pointer for placing unique elements
-        int writeIndex = 1;
-
-        for (int i = 1; i < nums.length; i++) {
-            // If we find a new unique element
-            if (nums[i] != nums[writeIndex - 1]) {
-                nums[writeIndex] = nums[i];
-                writeIndex++;
-            }
+    if(nums.length==0) return 0;
+    int check=1;
+    for(int i=1; i<nums.length; i++){
+        if(nums[i]!=nums[i-1]){
+            nums[check]=nums[i];
+            check++;
         }
-
-        return writeIndex;
     }
+    return check;
+     }
 }
