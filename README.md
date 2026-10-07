@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Maheksri123/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Maheksri123/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Maheksri123/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Maheksri123/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0388-longest-absolute-file-path](https://github.com/Maheksri123/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0678-valid-parenthesis-string](https://github.com/Maheksri123/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Maheksri123/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Maheksri123/LeetCode/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Maheksri123/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Maheksri123/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Maheksri123/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Maheksri123/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Maheksri123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Maheksri123/LeetCode/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Maheksri123/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Maheksri123/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
