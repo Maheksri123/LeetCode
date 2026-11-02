@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Maheksri123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Maheksri123/LeetCode/tree/master/0224-basic-calculator) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Maheksri123/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Maheksri123/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Maheksri123/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Maheksri123/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Maheksri123/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Maheksri123/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Maheksri123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Maheksri123/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Maheksri123/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/Maheksri123/LeetCode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maheksri123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/Maheksri123/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Maheksri123/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Maheksri123/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Maheksri123/LeetCode/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Maheksri123/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maheksri123/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Maheksri123/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Maheksri123/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
